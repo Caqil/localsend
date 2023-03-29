@@ -13,5 +13,6 @@ class ServerState with _$ServerState {
     required int port,
     required bool https,
     required ReceiveSessionState? session,
+
   }) = _ServerState;
 }

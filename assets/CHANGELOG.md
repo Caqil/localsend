@@ -6,6 +6,7 @@
 - feat(android): enable edge-to-edge mode
 - fix: clear selection after finished message transfer
 - fix(android, ios): fallback asset picker strings to English translation (by @TheGB0077)
+- fix(linux): header bar glitches
 
 ## 1.8.0 (2023-03-05)
 
